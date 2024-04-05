@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    height: 100%;
+    width: 100vw;
+    min-height: 100vh;
+    /* background: #000 ; */
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  font-size: 35px;
+  text-decoration: none;
+  color: #9D00FF, #CC00FF;
+}
+
+a:active{
+  color: #CC00FF;
+}
