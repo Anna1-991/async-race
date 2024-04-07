@@ -5,13 +5,12 @@
 }
 
 .header_wrapper > ul > li{
-    margin: 40px;
+    margin: 30px;
 }
 
 .btn{
     border: 1px solid #CC00FF;
     background: #000;
     width: 200px;
-    height: 60px;
     border-radius: 22px;
 }

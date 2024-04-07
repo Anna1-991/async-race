@@ -11,7 +11,6 @@ export const Header: React.FC = () => {
                         <Link to="/Garage">Garage</Link>
                     </button>
                 </li>
-
                 <li>
                     <button className="btn">
                         <Link to="/Winners">Winners</Link>
